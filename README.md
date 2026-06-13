@@ -52,6 +52,9 @@
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-Java%20Database%20Connectivity-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-555555?style=for-the-badge" />
 </p>
 
 ---
@@ -59,7 +62,6 @@
 ### What I'm Building
 
 **[TarkaSmart](https://tarkasmart.vercel.app/)** — a RAG-based document workspace that lets you upload documents and get accurate, hallucination-free answers using semantic search (FastAPI + React + pgvector). 🔗 [Live demo](https://tarkasmart.vercel.app/)
-
 ---
 
 ### Highlights
