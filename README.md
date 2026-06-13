@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Gargi Birwatkar 👋
 
-<!--
-**gargi-birwatkar/gargi-birwatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gargi-birwatkar&show_icons=true&theme=radical" alt="Gargi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargi-birwatkar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Key Engineering Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[TarkaSmart](https://tarkasmart.vercel.app/)** | Intelligent RAG document workspace | FastAPI, React, Postgres |
+| **[MesaLLM](https://github.com/gargi-birwatkar/GSoC-learning-space)** | LLM-driven agent-based modeling | Python, LiteLLM |
