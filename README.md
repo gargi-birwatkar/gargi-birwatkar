@@ -35,25 +35,36 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**Tools & Platforms**
+**Frameworks & Databases**
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth%202.0-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-Vector%20Search-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-Java%20Database%20Connectivity-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+**AI / ML & Automation**
+
+<p align="left">
   <img src="https://img.shields.io/badge/RAG-LLM%20Pipelines-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pgvector-Vector%20Search-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+**Deployment & Dev Tools**
+
+<p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-Java%20Database%20Connectivity-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth%202.0-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-555555?style=for-the-badge" />
 </p>
 
@@ -62,6 +73,7 @@
 ### What I'm Building
 
 **[TarkaSmart](https://tarkasmart.vercel.app/)** — a RAG-based document workspace that lets you upload documents and get accurate, hallucination-free answers using semantic search (FastAPI + React + pgvector). 🔗 [Live demo](https://tarkasmart.vercel.app/)
+
 ---
 
 ### Highlights
